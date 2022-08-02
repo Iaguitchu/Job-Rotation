@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pricipal {
+public class Fibonacci {
     public static void main(String[] args) {
         int ant, at, prox;
         int i;
