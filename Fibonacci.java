@@ -8,7 +8,7 @@ public class Fibonacci {
         System.out.print("Digite a quantidade de números: ");
         int namber = n.nextInt();
         Scanner n2 = new Scanner(System.in);
-        System.out.print("Digite o número que você procura:  ");
+        System.out.print("Digite o número que você procura: ");
         int namber2 = n2.nextInt();
 
 
